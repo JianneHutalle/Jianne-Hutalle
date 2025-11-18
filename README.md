@@ -1,16 +1,17 @@
-## Hi there 👋
+# premierleo
 
-<!--
-**premierleo/premierleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Name
+premierleo
 
-Here are some ideas to get you started:
+## Education
+Senior High School — ABM (Accountancy, Business & Management)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Cognitive Class — *SQL and Relational Databases 101* (certificate link below)
+
+## Skillsets
+- Fast and accurate typing
+- MS Word / document formatting
+- Basic data entry and transcription
+
+
