@@ -1,5 +1,5 @@
 # Jianne Hutalle
----
+<hr style="height: 3px; background-color: #ffffff; border: none;">
 ## Education
 
 - Senior High School – ABM (2022–2024)
