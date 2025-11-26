@@ -1,17 +1,4 @@
 # Hi! I'm Jianne Mae P. Hutalle
-<div style="
-  width: 100%;
-  padding: 40px 0;
-  text-align: center;
-  font-size: 36px;
-  font-weight: bold;
-  color: white;
-  background: linear-gradient(90deg, #b400b5, #563bd4, #006c9a, #009fa5);
-  border-radius: 5px;
-">
-Jianne Mae Hutalle
-</div>
-
 
 ## Education
 
