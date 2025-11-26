@@ -1,5 +1,5 @@
 # Jianne Hutalle
----
+
 ## Education
 Senior High School — ABM (Accountancy, Business & Management)
 College - Bachelor Of Science In Informatics Technology 
