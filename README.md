@@ -1,6 +1,6 @@
 # Jianne Hutalle
 ---
-### Education
+## Education
 
 - Senior High School – ABM (2022–2024)
 - College – BSIT (2024–Present)
