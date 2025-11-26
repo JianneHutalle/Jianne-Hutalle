@@ -2,8 +2,10 @@
 
 ## 🎓 Education
 
-- Senior High School – ABM (2022–2024)
-- College – BSIT (2024–Present)
+| Grade Level | Institution | Date |
+|------------|-----------|--------------|
+|Senior High School | San Jose National High School |2022–2024
+|College | New Era University |2024–Present
 
 
 ## 🏅 Certifications
