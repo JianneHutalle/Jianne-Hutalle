@@ -16,7 +16,6 @@
 
 
 ## 🛠 Skillsets
-- Fast and accurate typing
 - MS Word / document formatting
 - Basic data entry and transcription
 - UI/UX aesthetic design
