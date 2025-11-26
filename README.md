@@ -1,10 +1,10 @@
-# premierleo
-
+# Jianne Hutalle
 ## Name
-premierleo
+Jianne Hutalle
 
 ## Education
 Senior High School — ABM (Accountancy, Business & Management)
+College - Bachelor Of Science In Informatics Technology 
 
 ## Certifications
 - Cognitive Class — *SQL and Relational Databases 101* (certificate link below)
