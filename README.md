@@ -1,8 +1,8 @@
-## Jianne Hutalle
-
+# Jianne Hutalle
+---
 ## Education
-Senior High School — ABM (Accountancy, Business & Management)
-College - Bachelor Of Science In Informatics Technology 
+-Senior High School - ABM (2022-2024)
+-College - BSIT (2024 - Present)
 ---
 ## Certifications
 - Cognitive Class — *SQL and Relational Databases 101* (certificate link below)
