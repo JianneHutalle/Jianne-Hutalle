@@ -10,7 +10,7 @@
 
 | Certificate | Issued By | Month Issued |
 |------------|-----------|--------------|
-| -[SQL and Relational Database 101]([https://tinyurl.com/sql101-certificate](https://courses.cognitiveclass.ai/certificates/233bdcd8a9604cebbb8a1b69392c632d)) | Cognitive Class (IBM) | Nov 2025 |
+| -[SQL and Relational Database 101]([https://tinyurl.com/sql101-certificate](https://courses.cognitiveclass.ai/certificates/233bdcd8a9604cebbb8a1b69392c632d))| Cognitive Class (IBM) | Nov 2025 |
 
 ## 🛠 Skillsets
 - Fast and accurate typing
